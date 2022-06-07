@@ -6,13 +6,20 @@ La práctica ha sido realizada por los estudiantes del Máster en Ciencia de Dat
 Ficheros del código fuente
 Se han generado los siguientes ficheros notebooks de Jupyter
 
-## El conjunto de datos 
-
 * **001_inspeccion_VCDE.ipynb**: El objetivo de este notebook es realizar una inspección preliminar del dataset que fue creado en la práctica 1 por los mismos alumnos del máster. El dataset se denomina Valores Climatológicos Diarios de España, VCDE. Para esta práctica nos hemos quedado con los valores climatológicos diarios de España procedentes del sistema AEMET OpenData. 
 
 * **002_datos_problematicos.ipynb**: El objetivo de este notebook es el manejo de datos duplicados, faltantes o inválidos relativo al apartado 3 del documento de la práctica
 
 * **003_cambio_datos.ipynb**: El objetivo de este notebook son las transformaciones de datos que se van a realizar en el conjunto de los datos.
+
+
+## El conjunto de datos 
+
+El dataset se denomina Valores Climatológicos Diarios de España, VCDE. Para esta práctica nos hemos quedado con los valores climatológicos diarios de España procedentes del sistema AEMET OpenData. 
+
+El VCDE se encuentra publicado en la siguiente dirección electrónica:
+
+https://zenodo.org/record/6450171#.YpI_xahBy5f
 
 
 ## Recursos
