@@ -12,6 +12,7 @@ Se han generado los siguientes ficheros notebooks de Jupyter
 
 * **003_cambio_datos.ipynb**: El objetivo de este notebook son las transformaciones de datos que se van a realizar en el conjunto de los datos.
 
+* **004_analisis_exploratorio.ipynb**: El objetivo de este notebook es aplicar técnicas de análisis explotario sobre los datos y se aplican técnicas para obtener las series de datos de una estación. 
 
 ## El conjunto de datos 
 
